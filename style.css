@@ -154,15 +154,21 @@ h3 {
     margin-right: 1770px;
 
 }
-
+.about-as{
+     border-top: 2px solid #779611;
+    width: 1,920px;
+    height: 780px;
+}
 .about-as-container{
     display: flex;
     justify-content: space-around;
-    border-top: 2px solid #779611;
-    width: 1,920px;
-    height: 780px;
+   
     padding-top: 203px;
     padding-bottom: 204px;
+    .green-divider 
+               
+    
+
 }
 
 .about-as-container{
