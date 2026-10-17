@@ -155,30 +155,27 @@ h3 {
 
 }
 .about-as{
-     border-top: 2px solid #779611;
-    width: 1,920px;
+  border-top: 2px 0px 2px 0px solid #779611;
+    width: 1920px;
     height: 780px;
-}
-.about-as-container{
     display: flex;
-    justify-content: space-around;
-   
-    padding-top: 203px;
-    padding-bottom: 204px;
+    justify-content: space-between;
+  
+}
+.about-as-container{   
+ 
+
     
 
 }
 
 .about-as-container{
-  padding-top: 203px;
-  padding-bottom: 204px;
-  padding-left: 100px;
-  padding-right: 455px;
+display: flex;
+justify-content: center;
 }
 
 .about-image{
-    margin-bottom: 114px;
-    margin-top: 114px;
+ 
 }
 
 .about-as-title{
